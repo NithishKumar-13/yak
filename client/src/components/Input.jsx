@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Picker } from "emoji-mart";
 import SentimentVerySatisfiedIcon from "@material-ui/icons/SentimentVerySatisfied";
 import { useThemeContext } from "../context/ThemeContext"
-import "../components/Chats/Chatjs.scss"
+import "./Chats/Chats.scss"
 import "emoji-mart/css/emoji-mart.css";
 
 const Input = ({ message, setMessage, sendMessage }) => {

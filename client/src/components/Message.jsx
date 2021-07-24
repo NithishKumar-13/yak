@@ -1,7 +1,7 @@
 import React from 'react'
 import { createUseStyles } from 'react-jss'
 import { useThemeContext } from '../context/ThemeContext'
-import './Chats/Chatjs.scss'
+import './Chats/Chats.scss'
 
 const Message = ({ message , isAdmin }) => {
     const [theme,,] = useThemeContext()
