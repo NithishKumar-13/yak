@@ -1,0 +1,33 @@
+[
+    {
+      "id": "_id-48jsjhl",
+      "displayColor" : "#0ca1f7",
+      "gradient": "linear-gradient(to bottom right, #62C4FD, #1A6BD6)",
+      "message": {
+        "admin": "#0ca1f7;",
+        "others": "#e7eaee;",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "_id-893rfs",
+      "displayColor" : "#f0115dff",
+      "gradient": "linear-gradient( 109.6deg,  rgba(233,30,99,1) 11.2%, rgba(202,35,92,1) 96.6% )",
+      "message": {
+        "admin": "#f0115dff;",
+        "others": "#e7eaee;",
+        "color": "#fff;"
+      }
+    },
+    {
+      "id": "_id-12ghjkz",
+      "displayColor" : "rgba(242,124,0,1)",
+      "gradient": "linear-gradient( 109.6deg,  rgba(255,194,48,1) 11.2%, rgba(255,124,0,1) 100.2% )",
+      "message": {
+        "admin": "rgba(242,124,0,1)",
+        "others": "#e7eaee;",
+        "color": "#222;"
+      }
+    }
+  ]
+  
