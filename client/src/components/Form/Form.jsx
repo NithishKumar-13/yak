@@ -1,6 +1,6 @@
 import React , { useState , useEffect } from 'react'
 import { useHistory } from 'react-router-dom'
-//import '../../utilities.scss'
+import '../../utilities.scss'
 import './Form.scss'
 
 const Form = ({className}) => {
