@@ -1,0 +1,14 @@
+.room {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__container {
+        width: 80%;
+        max-width: 80rem;
+        background-color: #fff;
+        height: 50rem;
+    }
+}
