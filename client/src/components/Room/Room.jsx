@@ -17,7 +17,7 @@ const Room = ({ location }) => {
     const [theme,,] = useThemeContext()
 
     useEffect(() => {
-        socket = io('http://localhost:8080', {
+        socket = io('https://yak-chat-app.herokuapp.com/', {
             transports: ["websocket", "polling", "flashsocket"],
         })
 
